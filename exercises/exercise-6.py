@@ -19,3 +19,8 @@
 #
 # After setting the likely season, you can use another if...elif...else statement to "adjust" if
 # the day number falls within a certain range.
+
+month = input('Enter the month of the year (Jan - Dec):')
+day = input('Enter the day (1-31) of the month:')
+
+
